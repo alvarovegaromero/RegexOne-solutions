@@ -1,0 +1,3 @@
+https://regexone.com/lesson/excluding_characters?
+
+[^b]og
