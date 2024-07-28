@@ -1,0 +1,3 @@
+https://regexone.com/lesson/character_ranges?
+
+[A-C][n-p][a-c]
