@@ -1,0 +1,3 @@
+\d\d\d
+
+\d{3} is also valid but repetions have not been taught yet
