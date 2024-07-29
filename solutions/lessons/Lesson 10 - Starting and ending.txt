@@ -1,0 +1,3 @@
+https://regexone.com/lesson/line_beginning_end?
+
+^Mission: successful$
