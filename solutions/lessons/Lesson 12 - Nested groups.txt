@@ -1,0 +1,3 @@
+https://regexone.com/lesson/nested_groups?
+
+^(\w{3}\s(\d{4}))$
