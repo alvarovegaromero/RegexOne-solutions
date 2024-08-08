@@ -1,0 +1,3 @@
+https://regexone.com/lesson/capturing_groups?
+
+^(file_\w*)\.pdf$
