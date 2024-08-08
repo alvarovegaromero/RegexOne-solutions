@@ -1,0 +1,3 @@
+https://regexone.com/lesson/misc_meta_characters?
+
+^.*$
