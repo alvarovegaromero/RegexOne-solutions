@@ -1,0 +1,3 @@
+https://regexone.com/lesson/more_groups?
+
+^(\d+)x(\d+)$
